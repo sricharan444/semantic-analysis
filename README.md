@@ -1,1 +1,1 @@
-# semantic-analysis
+# devolopment of  a statement analysis model to classify restaurant reviews as positive or negative or positive.with the rapid growth of online platforms for sharing options and review restaurants often relay on the customer feadback to improve their services and attract a new customer.analysing the sentiment of the reviews can provide the insights of the satification of the customer.
